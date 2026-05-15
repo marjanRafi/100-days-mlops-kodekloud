@@ -8,7 +8,7 @@ A daily hands-on challenge working through real MLOps problems — environments,
 |-----|---------|--------|
 | [Day 001](days/day-001/README.md) | Create a Python Virtual Environment for ML | ✅ |
 | [Day 002](days/day-002/README.md) | Set Up and Configure Jupyter Notebook Server | ✅ |
-| [Day 003](days/day-003/README.md) | Fix a Broken uv Lockfile Specification | ⬜ |
+| [Day 003](days/day-003/README.md) | Fix a Broken uv Lockfile Specification | ✅ |
 | [Day 004](days/day-004/README.md) | Create a Standard ML Project Structure | ⬜ |
 | [Day 005](days/day-005/README.md) | Create a Makefile for ML Workflow Automation | ⬜ |
 | [Day 006](days/day-006/README.md) | Set Up Code Quality Tools for ML Code | ⬜ |
