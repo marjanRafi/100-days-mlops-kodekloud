@@ -9,13 +9,13 @@ A daily hands-on challenge working through real MLOps problems — environments,
 | [Day 001](days/day-001/README.md) | Create a Python Virtual Environment for ML | ✅ |
 | [Day 002](days/day-002/README.md) | Set Up and Configure Jupyter Notebook Server | ✅ |
 | [Day 003](days/day-003/README.md) | Fix a Broken uv Lockfile Specification | ✅ |
-| [Day 004](days/day-004/README.md) | Create a Standard ML Project Structure | ⬜ |
-| [Day 005](days/day-005/README.md) | Create a Makefile for ML Workflow Automation | ⬜ |
-| [Day 006](days/day-006/README.md) | Set Up Code Quality Tools for ML Code | ⬜ |
-| [Day 007](days/day-007/README.md) | Package an ML Project as Installable Python Package | ⬜ |
-| [Day 008](days/day-008/README.md) | Configure Pre-Commit Hooks for ML Repository | ⬜ |
-| [Day 009](days/day-009/README.md) | Create a Custom ML Project Template with Cookiecutter | ⬜ |
-| [Day 010](days/day-010/README.md) | Install and Initialize DVC in an ML Project | ⬜ |
+| [Day 004](days/day-004/README.md) | Create a Standard ML Project Structure | ✅ |
+| [Day 005](days/day-005/README.md) | Create a Makefile for ML Workflow Automation | ✅ |
+| [Day 006](days/day-006/README.md) | Set Up Code Quality Tools for ML Code | ✅ |
+| [Day 007](days/day-007/README.md) | Package an ML Project as Installable Python Package | ✅ |
+| [Day 008](days/day-008/README.md) | Configure Pre-Commit Hooks for ML Repository | ✅ |
+| [Day 009](days/day-009/README.md) | Create a Custom ML Project Template with Cookiecutter | ✅ |
+| [Day 010](days/day-010/README.md) | Install and Initialize DVC in an ML Project | ✅ |
 | [Day 011](days/day-011/README.md) | Track a Dataset with DVC | ⬜ |
 | [Day 012](days/day-012/README.md) | Configure a DVC Remote Storage | ⬜ |
 | [Day 013](days/day-013/README.md) | Pull DVC-Tracked Data from Remote | ⬜ |
