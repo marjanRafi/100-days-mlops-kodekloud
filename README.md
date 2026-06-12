@@ -20,12 +20,12 @@ A daily hands-on challenge working through real MLOps problems — environments,
 | [Day 012](days/day-012/README.md) | Configure a DVC Remote Storage | ✅ |
 | [Day 013](days/day-013/README.md) | Pull DVC-Tracked Data from Remote | ✅ |
 | [Day 014](days/day-014/README.md) | Create a DVC Pipeline for Data Processing | ✅ |
-| [Day 015](days/day-015/README.md) | Parameterize a DVC Pipeline | ⬜ |
-| [Day 016](days/day-016/README.md) | Track ML Metrics with DVC | ⬜ |
-| [Day 017](days/day-017/README.md) | Run and Compare DVC Experiments | ⬜ |
-| [Day 018](days/day-018/README.md) | Version Datasets and Models Across Git Branches | ⬜ |
-| [Day 019](days/day-019/README.md) | Build Complete DVC ML Pipeline with Remote Storage and Experiments | ⬜ |
-| [Day 020](days/day-020/README.md) | Install and Start the MLflow Tracking Server | ⬜ |
+| [Day 015](days/day-015/README.md) | Parameterize a DVC Pipeline | ✅ |
+| [Day 016](days/day-016/README.md) | Track ML Metrics with DVC | ✅ |
+| [Day 017](days/day-017/README.md) | Run and Compare DVC Experiments | ✅ |
+| [Day 018](days/day-018/README.md) | Version Datasets and Models Across Git Branches | ✅ |
+| [Day 019](days/day-019/README.md) | Build Complete DVC ML Pipeline with Remote Storage and Experiments | ✅ |
+| [Day 020](days/day-020/README.md) | Install and Start the MLflow Tracking Server | ✅ |
 | [Day 021](days/day-021/README.md) | Log an ML Experiment to MLflow | ⬜ |
 | [Day 022](days/day-022/README.md) | Create and Organize MLflow Experiments | ⬜ |
 | [Day 023](days/day-023/README.md) | Search and Query MLflow Runs | ⬜ |
